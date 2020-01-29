@@ -13,7 +13,7 @@ namespace Pechat_Masiv
             int[] nums = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             Console.WriteLine();
 
-            // => foreach
+            // => foreach comment from GiyHub
             foreach (var a in nums)
             {
                 Console.Write(a + " ");
